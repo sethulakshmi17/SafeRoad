@@ -1,0 +1,9 @@
+{
+  "name": "SafeRoad - Road Safety & Hazard Copilot",
+  "description": "Mobile-friendly road safety platform with live obstacle detection, hazard maps, pothole reporting, speed monitoring, weather alerts, safe route planning, and emergency SOS.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
